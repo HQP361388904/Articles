@@ -9,10 +9,12 @@
 #### 技能篇
 > _路漫漫其修远兮，吾将上下而求索。_
 
-+ [Markdown 入门指南](http://www.jianshu.com/p/1e402922ee32 "Markdown 入门指南")
-+ [Markdown 语法说明（简体中文版）](http://www.appinn.com/markdown/ "Markdown 语法说明（简体中文版）")
++ Markdown
+  + [Markdown 入门指南](http://www.jianshu.com/p/1e402922ee32 "Markdown 入门指南")
+  + [Markdown 语法说明（简体中文版）](http://www.appinn.com/markdown/ "Markdown 语法说明（简体中文版）")
 
-+ [npm 模块安装机制简介](http://mp.weixin.qq.com/s/f-toSMgFFHDsRHpU1CqrOw "npm 模块安装机制简介")
++ NodeJS
+  + [npm 模块安装机制简介](http://mp.weixin.qq.com/s/f-toSMgFFHDsRHpU1CqrOw "npm 模块安装机制简介")
 
 ---
 
