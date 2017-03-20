@@ -14,7 +14,7 @@
   + [Markdown 语法说明（简体中文版）](http://www.appinn.com/markdown/ "Markdown 语法说明（简体中文版）")
 
 + NodeJS
-  + [npm 模块安装机制简介](http://mp.weixin.qq.com/s/f-toSMgFFHDsRHpU1CqrOw "npm 模块安装机制简介")
+  + [npm 模块安装机制简介](http://mp.weixin.qq.com/s/f-toSMgFFHDsRHpU1CqrOw "npm 模块安装机制简介")
 
 ---
 
