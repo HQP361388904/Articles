@@ -11,3 +11,12 @@
 
 + [Markdown 入门指南](http://www.jianshu.com/p/1e402922ee32 "Markdown 入门指南")
 + [Markdown 语法说明（简体中文版）](http://www.appinn.com/markdown/ "Markdown 语法说明（简体中文版）")
+
+---
+
+### 设计 ###
+
+#### 经验篇
+> _三人行必有我师焉_
+
++ [换了7份工作，技能都快点满了...](http://mp.weixin.qq.com/s/5Vqmks6N1fEtF5F7FPCPcA "换了7份工作，技能都快点满了...")
