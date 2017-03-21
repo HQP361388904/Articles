@@ -10,11 +10,11 @@
 > _路漫漫其修远兮，吾将上下而求索。_
 
 + Markdown
-  + [Markdown 入门指南](http://www.jianshu.com/p/1e402922ee32 "Markdown 入门指南")
-  + [Markdown 语法说明（简体中文版）](http://www.appinn.com/markdown/ "Markdown 语法说明（简体中文版）")
+ + [Markdown 入门指南](http://www.jianshu.com/p/1e402922ee32 "Markdown 入门指南")
+ + [Markdown 语法说明（简体中文版）](http://www.appinn.com/markdown/ "Markdown 语法说明（简体中文版）")
 
 + NodeJS
-  + [npm 模块安装机制简介](http://mp.weixin.qq.com/s/f-toSMgFFHDsRHpU1CqrOw "npm 模块安装机制简介")
+ + [npm 模块安装机制简介](http://mp.weixin.qq.com/s/f-toSMgFFHDsRHpU1CqrOw "npm 模块安装机制简介")
 
 ---
 
@@ -30,4 +30,4 @@
 > _路漫漫其修远兮，吾将上下而求索。_
 
 + 用户调研
-  + [用研小白入门记：流程思维的应用](http://mp.weixin.qq.com/s/DSuwi30919CPJmQh7B_VqQ "用研小白入门记：流程思维的应用")
+ + [用研小白入门记：流程思维的应用](http://mp.weixin.qq.com/s/DSuwi30919CPJmQh7B_VqQ "用研小白入门记：流程思维的应用")
