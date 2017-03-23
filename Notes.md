@@ -16,6 +16,9 @@
 + NodeJS
   + [npm 模块安装机制简介](http://mp.weixin.qq.com/s/f-toSMgFFHDsRHpU1CqrOw "npm 模块安装机制简介")
 
++ 组件化
+  + [界面组件化设计](http://mp.weixin.qq.com/s/s9sIfHSPM4qAUcDPn6EWXw "界面组件化设计")
+  
 #### 工具篇
 > _工欲善其事必先利其器_
 
