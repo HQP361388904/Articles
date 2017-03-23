@@ -22,8 +22,7 @@
 #### 工具篇
 > _工欲善其事必先利其器_
 
-+ Images
-
++ 图片处理 
   + [图片精灵快速定位器](http://www.spritecow.com/ "图片精灵快速定位器")
   + [图片大小优化器](https://tinypng.com/ "图片大小优化器")
   
@@ -41,4 +40,4 @@
 > _路漫漫其修远兮，吾将上下而求索。_
 
 + 用户调研
-  + [用研小白入门记：流程思维的应用](http://mp.weixin.qq.com/s/DSuwi30919CPJmQh7B_VqQ "用研小白入门记：流程思维的应用")
+    + [用研小白入门记：流程思维的应用](http://mp.weixin.qq.com/s/DSuwi30919CPJmQh7B_VqQ "用研小白入门记：流程思维的应用")
