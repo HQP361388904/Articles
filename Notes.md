@@ -25,6 +25,12 @@
 + 图片处理 
   + [图片精灵快速定位器](http://www.spritecow.com/ "图片精灵快速定位器")
   + [图片大小优化器](https://tinypng.com/ "图片大小优化器")
+
+#### 组件库
+> _站在巨人的肩膀上_
+
++ Vue.js
+  + [一套基于Vue.js的高质量UI组件库【PC】](https://www.iviewui.com/ "一套基于Vue.js的高质量UI组件库")
   
 ---
 
