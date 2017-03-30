@@ -34,6 +34,12 @@
 
 + Vue.js
   + [一套基于Vue.js的高质量UI组件库【PC】](https://www.iviewui.com/ "一套基于Vue.js的高质量UI组件库")
+  
+#### 效果库
+
++ BookBlock 书本翻页效果
+
+  + [BookBlock 书本翻页效果](https://tympanus.net/codrops/2012/09/03/bookblock-a-content-flip-plugin/ "BookBlock 书本翻页效果")
   
 ---
 
