@@ -13,6 +13,9 @@
   + [Markdown 入门指南](http://www.jianshu.com/p/1e402922ee32 "Markdown 入门指南")
   + [Markdown 语法说明（简体中文版）](http://www.appinn.com/markdown/ "Markdown 语法说明（简体中文版）")
 
++ JavaScript
+  + [JavaScript 正则表达式](http://www.jianshu.com/p/8ab69c23dd62 "JavaScript 正则表达式")
+
 + NodeJS
   + [npm 模块安装机制简介](http://mp.weixin.qq.com/s/f-toSMgFFHDsRHpU1CqrOw "npm 模块安装机制简介")
 
