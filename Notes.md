@@ -12,7 +12,7 @@
 + Markdown
   + [Markdown 入门指南](http://www.jianshu.com/p/1e402922ee32 "Markdown 入门指南")
   + [Markdown 语法说明（简体中文版）](http://www.appinn.com/markdown/ "Markdown 语法说明（简体中文版）")
-  + [Markdown 中锚的使用](http://www.cnblogs.com/rainduck/p/3593870.html "Markdown 中锚的使用")
+  + [Markdown 中锚的使用](http://www.cnblogs.com/rainduck/p/3593870.html "Markdown 中锚的使用")
 
 + JavaScript
   + [JavaScript 正则表达式](http://www.jianshu.com/p/8ab69c23dd62 "JavaScript 正则表达式")
