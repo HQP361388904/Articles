@@ -7,3 +7,4 @@
 ## git
 
 + [高频使用的 Git 命令](https://mp.weixin.qq.com/s/dZY9lIMxawaIQ4dEHYCpRA)
++ [Git简易指南](https://www.bootcss.com/p/git-guide/)
